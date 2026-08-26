@@ -1,0 +1,27 @@
+TEBOGO EARTHING & LIGHTNING PROTECTION SERVICES
+GitHub / Vercel Deployment Package
+
+1. Create a new GitHub repository.
+2. Upload ALL files and folders from this package to the repository root.
+3. In Vercel choose Add New Project and import the GitHub repository.
+4. Framework Preset: Other.
+5. Build Command: leave empty.
+6. Output Directory: leave empty.
+7. Deploy.
+
+The project includes:
+- Responsive multi-page website
+- Ultra Max 4 animations and stable hero typewriter
+- 3-slide hero slider
+- Realistic local image assets stored inside /images
+- Mobile footer navigation
+- WhatsApp enquiry chatbot with 20-second delayed auto-open
+- PWA install prompt and mobile Install button
+- Services, About, Gallery and Contact pages
+- WhatsApp quote links
+- Vercel routing configuration
+
+Business contact:
++27 67 003 3167
+info@tebogoprojects.co.za
+www.tebogoprojects.co.za
