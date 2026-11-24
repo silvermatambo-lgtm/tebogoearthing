@@ -1,4 +1,4 @@
-const CACHE = "webdevpro-ultra-max-v2";
+const CACHE = "webdevpro-ultra-max-v3";
 const CORE = ["/", "/about.html", "/services.html", "/gallery.html", "/contact.html", "/manifest.webmanifest"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(CORE)).then(() => self.skipWaiting()));
